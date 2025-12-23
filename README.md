@@ -1,13 +1,13 @@
 # Growing Neural Gas para Análise de Comportamento Educacional
 Este projeto implementa e estende o algoritmo **Growing Neural Gas (GNG)** para análise não supervisionada do comportamento de alunos em listas de exercícios, utilizando métricas de desempenho e tempo.
 
-## 📚 Contexto
+## Contexto
 
 O projeto foi desenvolvido no contexto de uma **pesquisa acadêmica**, utilizando dados reais de desempenho estudantil. O objetivo principal é compreender como os alunos evoluem ao longo do tempo, identificando padrões recorrentes e fluxos de transição entre diferentes estados de aprendizagem, sem o uso de rótulos.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Aplicar o algoritmo **Growing Neural Gas** para clusterização adaptativa de dados educacionais  
 - Modelar a evolução do comportamento dos alunos ao longo de múltiplas listas de exercícios  
@@ -17,7 +17,7 @@ O projeto foi desenvolvido no contexto de uma **pesquisa acadêmica**, utilizand
 
 ---
 
-## 🧠 Metodologia
+## Metodologia
 
 O pipeline do projeto segue as seguintes etapas:
 
@@ -42,7 +42,7 @@ O pipeline do projeto segue as seguintes etapas:
 
 ---
 
-## 🤖 Tipo de Aprendizado
+## Tipo de Aprendizado
 
 Este projeto utiliza **Aprendizado Não Supervisionado**, uma vez que o modelo aprende padrões e estruturas nos dados sem o uso de rótulos ou classes pré-definidas.
 
@@ -50,7 +50,7 @@ O algoritmo Growing Neural Gas permite a adaptação dinâmica da topologia da r
 
 ---
 
-## 📊 Dados Utilizados
+## Dados Utilizados
 
 As métricas analisadas incluem, entre outras:
 
@@ -65,7 +65,7 @@ Cada lista de exercícios é processada de forma incremental, permitindo a anál
 
 ---
 
-## 📈 Resultados
+## Resultados
 
 Os principais resultados obtidos incluem:
 
@@ -76,7 +76,7 @@ Os principais resultados obtidos incluem:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**
 - **Pandas**
